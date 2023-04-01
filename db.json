@@ -23,6 +23,12 @@
       "day": "Hello World",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "Test",
+      "day": "Sunday",
+      "reminder": false,
+      "id": 5
     }
   ]
 }
